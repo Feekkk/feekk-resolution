@@ -1,2 +1,3 @@
-# feekk-resolution
-Repository to saved future project
+# feekk-First project
+Repository to create my first project in github
+
